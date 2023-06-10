@@ -9,7 +9,7 @@
 #1. WAP to print all elements of a list using a for loop. Take the elements of the list from the user.
 
 li = []
-n = int(input("Enter length of the list: "))
+n = int(input("Enter length of the list= "))
 for i in range(n):
     a = input("Enter element: ")
     li.append(a)
